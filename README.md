@@ -1,2 +1,1 @@
-"# YOLOV8DetectingCarinImage" 
-"# YOLOV8DetectingCarinImage" 
+Taking the yoloV8 file from Google Colab 
